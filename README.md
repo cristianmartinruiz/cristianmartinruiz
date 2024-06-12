@@ -4,9 +4,9 @@
     Well, hello! 👋🏻
 </h2>
 
-💼&nbsp;&nbsp;&nbsp;Junior FullStack Developer at <a href="(https://www.conquerblocks.com/)">Conquer Blocks </a>&nbsp;<img style="margin-bottom: -2px" height="16" width="16" src="https://www.inno-it.es/wp-content/uploads/2023/04/favicon-150x150.png">
+💼&nbsp;&nbsp;&nbsp;FullStack Developer student at <a href="(https://www.conquerblocks.com/)">Conquer Blocks </a>&nbsp;<img style="margin-bottom: -2px" height="16" width="16" src="https://www.inno-it.es/wp-content/uploads/2023/04/favicon-150x150.png">
 
-🌱&nbsp;&nbsp;&nbsp;I’m currently using and mastering **VueJS**
+🌱&nbsp;&nbsp;&nbsp;I’m currently living in Barcelona
 
 📫&nbsp;&nbsp;&nbsp;Email me at cristian20martin20@gmail.com
 
