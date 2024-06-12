@@ -1,4 +1,4 @@
-<img src="/img/header-logo.svg">
+<img src="cohete.png">
 
 <h2>
     Well, hello! 👋🏻
